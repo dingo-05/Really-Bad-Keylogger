@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678036185 source:f:\programi\c-c++\sprdnja\keylogger\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+
